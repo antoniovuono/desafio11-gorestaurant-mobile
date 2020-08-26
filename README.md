@@ -3,7 +3,7 @@
 <p>Nesse desafio, foi desenvolvido mais uma aplicação, a GoRestaurant. Agora você irá praticar o que você aprendeu até agora no React.js junto com TypeScript, praticando o conceito de CRUD (Create, Read, Update, Delete). </p>
 
 <h2>Telas: </h2>
-
+![alt text](https://github.com/willianPetri/GoRestaurant-mobile/blob/master/github/goRestaurantMobile.gif)
 
 
 <h2> Clonando o repositório na sua máquina: </h2>
